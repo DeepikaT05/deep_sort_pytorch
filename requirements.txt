@@ -34,7 +34,7 @@ scikit-learn==0.22.2.post1
 scipy~=1.10.1
 six==1.14.0
 sklearn==0.0
-torch~=1.12.1+cu113
+torch==1.12.1+cu113
 torchvision~=0.13.1+cu113
 Vizer==0.1.5
 wcwidth==0.1.9
